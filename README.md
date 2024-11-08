@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, Meu nome João Victor, Sou cursante de Desenvolvimento De Sistemas, Tenho 16 anos👍, sou apaixonado por tecnologia, Conheço as linguagens Python, C++, JavaScript e sei usar tbm HTML e CSS.💻💫 
+Olá, Meu nome João Victor, Sou cursante de Desenvolvimento De Sistemas, Tenho 16 anos👍, sou apaixonado por tecnologia, Conheço as linguagens Python, C++, JavaScript e sei usar tbm HTML e CSS, atualmente estou trabalhando em uma startup para desenvolver um app que ajudará várias cidades!💻💫 
 
 
 ## 🌐 Socials:
